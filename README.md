@@ -1,1 +1,3 @@
-# AkusutaUSB
+# アクスタ風USBメモリ
+
+工事中
